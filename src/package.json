@@ -44,6 +44,6 @@
     "jest-environment-jsdom": "^29.7.0",
     "playwright-extra": "^4.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "web-ext": "^7.4.0"
+    "web-ext": "^10.6.0"
   }
 }
